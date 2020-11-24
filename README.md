@@ -36,3 +36,8 @@
     - Consulter les formations
     - Sélectionner une formation 
     - Candidater
+
+- Un utilisateur pourra : 
+
+    - S'authentifier ou s'inscrire s'il n'est pas inscrit selon son rôle
+        
