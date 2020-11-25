@@ -1,7 +1,7 @@
 # Plateforme Centre de formation
 
 ## Use cases 
-
+<p
 - Un.e direct.eur.trice pourra : 
     - Créer un nouveau centre de formation
     - Supprimer un centre de formation
@@ -9,7 +9,7 @@
     - Modifier un centre de formation
     - Assigner un centre de formation
     
-<p align="right">
+ align="right">
   <img src="Diagrams Use Cases/1.jpg" width="350" title="hover text">
 </p>
 
