@@ -9,7 +9,7 @@
     - Modifier un centre de formation
     - Assigner un centre de formation
     
-<p align="center">
+<p align="right">
   <img src="Diagrams Use Cases/1.jpg" width="350" title="hover text">
 </p>
 
