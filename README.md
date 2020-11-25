@@ -10,13 +10,15 @@
     - Assigner un centre de formation
     
  
-  <img src="Diagrams Use Cases/1.jpg" width="600" title="hover text">
+  <img src="Diagrams Use Cases/1.jpg" width="500" title="hover text">
 
 
 - Un.e format.eur/rice pourra : 
     - Créer un projet
     - Corriger un projet
     - Assigner un projet à une promo
+    
+<img src="Diagrams Use Cases/2.jpg" width="500" title="hover text">
 
 - Un.e apprenant.e pourra : 
     - Consulter un projet
@@ -24,6 +26,9 @@
     - Consulter sa progression 
     - Rédiger un dossier professionnel
     - Rédiger un dossier projet 
+
+<img src="Diagrams Use Cases/3.jpg" width="500" title="hover text">
+
 
 - Un.e chargé.e de formation pourra : 
     - Créer une promotion
@@ -35,13 +40,16 @@
     - Gérer les retards / absences
     - Gérer l'agenda
     - Inviter les nouveaux apprenant.es dans une promo
+    
+<img src="Diagrams Use Cases/4.jpg" width="500" title="hover text">
 
 - Un candidat.e pourra : 
     - Consulter les formations
     - Sélectionner une formation 
     - Candidater
-
+<img src="Diagrams Use Cases/5.jpg" width="500" title="hover text">
 - Un.e user pourra : 
 
     - S'authentifier ou s'inscrire s'il n'est pas inscrit.e selon son rôle
         
+<img src="Diagrams Use Cases/6.jpg" width="500" title="hover text">
