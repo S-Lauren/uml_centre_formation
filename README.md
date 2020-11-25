@@ -10,7 +10,7 @@
     - Assigner un centre de formation
     
  
-  <img src="Diagrams Use Cases/1.jpg" width="350" title="hover text">
+  <img src="Diagrams Use Cases/1.jpg" width="800" title="hover text">
 
 
 - Un.e format.eur/rice pourra : 
