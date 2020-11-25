@@ -1,4 +1,4 @@
-# Apprennat potentiel 
+# Apprennant potentiel 
 
 # Cas d’utilisation :
 
