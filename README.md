@@ -29,7 +29,7 @@
     - Corriger un projet
     - Assigner un projet à une promo
     
-<img src="Diagrams Use Cases/3.jpg" width="500" title="hover text">
+<img src="Use_Cases_Diagram/3.jpg" width="500" title="hover text">
 
 - Un.e apprenant.e pourra : 
     - Consulter un projet
@@ -38,7 +38,7 @@
     - Rédiger un dossier professionnel
     - Rédiger un dossier projet 
 
-<img src="Diagrams Use Cases/4.jpg" width="500" title="hover text">
+<img src="Use_Cases_Diagram/4.jpg" width="500" title="hover text">
 
 
 - Un.e chargé.e de promo pourra : 
@@ -52,17 +52,17 @@
     - Gérer l'agenda
     - Inviter les nouveaux apprenant.es dans une promo
     
-<img src="Diagrams Use Cases/5.jpg" title="hover text">
+<img src="Use_Cases_Diagram/5.jpg" title="hover text">
 
 - Un candidat.e pourra : 
     - Consulter les formations
     - Sélectionner une formation 
     - Candidater
     
-<img src="Diagrams Use Cases/4.jpg" width="500" title="hover text">
+<img src="Use_Cases_Diagram/4.jpg" width="500" title="hover text">
 
 - Un.e user pourra : 
 
     - S'authentifier ou s'inscrire s'il n'est pas inscrit.e selon son rôle
         
-<img src="Diagrams Use Cases/2.jpg" width="500" title="hover text">
+<img src="Use_Cases_Diagram/2.jpg" width="500" title="hover text">
