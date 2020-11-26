@@ -4,10 +4,10 @@
 ---
 
 **participant.e.s :**
-*  Abdelatif El-Mahdi :male_vampire: 
-*  Hamdane Habiba :female-astronaut: 
-*  Bensadoune Amel :female-artist: 
-*  Lauren Sarah :female_mage: 
+*  Abdelatif El-Mahdi :+1: 
+*  Hamdane Habiba 
+*  Bensadoune Amel  
+*  Lauren Sarah  
 
 ---
 
