@@ -5,9 +5,9 @@
 
 **participant.e.s :**
 *  Abdelatif El-Mahdi :+1: 
-*  Hamdane Habiba 
-*  Bensadoune Amel  
-*  Lauren Sarah  
+*  Hamdane Habiba :-1:
+*  Bensadoune Amel :-1:
+*  Lauren Sarah :-1:
 
 ---
 
