@@ -1,4 +1,15 @@
-# Plateforme Centre de formation
+# **PROJET N°2 : conception réseau de centre de formation**
+
+
+---
+
+**participant.e.s :**
+*  Abdelatif El-Mahdi :male_vampire: 
+*  Hamdane Habiba :female-astronaut: 
+*  Bensadoune Amel :female-artist: 
+*  Lauren Sarah :female_mage: 
+
+---
 
 ## Use cases 
 
